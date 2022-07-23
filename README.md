@@ -1,12 +1,6 @@
-=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=
 CIS 120 Game Project README
-PennKey: ***
-=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=
 
-===================
-=: Core Concepts :=
-===================
-
+Core Concepts
 - List the four core concepts, the features they implement, and why each feature
   is an appropriate use of the concept. Incorporate the feedback you got after
   submitting your proposal.
@@ -41,10 +35,8 @@ PennKey: ***
   and middle stages of my game when I was in the midst of debugging the functionality
   of the game.
 
-=========================
-=: Your Implementation :=
-=========================
 
+Your Implementation:
 - Provide an overview of each of the classes in your code, and what their
   function is in the overall game.
 
@@ -87,12 +79,7 @@ PennKey: ***
   use getters and setter to access the game's internal state. If I could refactor the game,
   I would try to put all the user interaction related methods in one class.
 
-
-
-========================
-=: External Resources :=
-========================
-
+External Resources:
 - Cite any external resources (images, tutorials, etc.) that you may have used 
   while implementing your game.
   I relied on the course material, and only the actual 2048 game (as game strategy and rules)
